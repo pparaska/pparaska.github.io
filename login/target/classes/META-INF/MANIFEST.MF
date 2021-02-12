@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pparaska
+Build-Jdk: 12
+Implementation-Title: login
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.cg.shoppingcart
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/login
+Created-By: Maven Integration for Eclipse
+

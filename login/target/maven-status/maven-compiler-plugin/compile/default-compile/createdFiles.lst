@@ -1,0 +1,10 @@
+com\mkyong\error\CustomGlobalExceptionHandler.class
+com\mkyong\config\SpringSecurityConfig.class
+com\mkyong\error\validator\AuthorValidator.class
+com\mkyong\StartBookApplication.class
+com\mkyong\error\BookUnSupportedFieldPatchException.class
+com\mkyong\BookController.class
+com\mkyong\Book.class
+com\mkyong\BookRepository.class
+com\mkyong\error\validator\Author.class
+com\mkyong\error\BookNotFoundException.class
