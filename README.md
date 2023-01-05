@@ -15,4 +15,4 @@ Thank you,
 Your favourite Programmer
 Poonam the Groot.
 
-![image](https://user-images.githubusercontent.com/45350812/210782213-659cf82c-0c59-4875-b5da-56d797145091.png)
+![image](https://user-images.githubusercontent.com/45350812/210782463-022490e5-f80f-459c-842e-dcb6601495fb.png)
